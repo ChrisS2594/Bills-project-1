@@ -1,4 +1,6 @@
 .Welcome {
     color: blue;
     font-style: italic;
+    position: static;
+    padding-left: 250px;
 }
